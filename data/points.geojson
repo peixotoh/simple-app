@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Cologne" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.96, 50.94]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Zurich" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.55, 47.37]
+      }
+    }
+  ]
+}
